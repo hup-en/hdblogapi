@@ -1,4 +1,4 @@
-### Introduction
+### Introduction Javascript
 
 Let's dive right into JavaScript!
 
